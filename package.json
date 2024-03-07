@@ -1,0 +1,28 @@
+{
+  "name": "color-pale-generatorly",
+  "version": "1.0.3",
+  "description": "This package provides a function to generate aesthetically pleasing color palettes based on various user-defined parameters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madman9494/colorpalettegenerator"
+  },
+  "keywords": [
+    "generate",
+    "aesthetically",
+    "pleasing",
+    "color",
+    "palettes"
+  ],
+  "author": "madman9494",
+  "license": "ISC",
+  "dependencies": {
+    "color_generator_complex": "^1.0.0",
+    "randomly-password-generator": "^1.0.0",
+    "text-summarizerly": "^1.0.9",
+    "textmoji": "^1.0.0"
+  }
+}
